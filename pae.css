@@ -1,0 +1,113 @@
+/* #box {
+    background-color: brown;
+    color: wheat;
+}
+.henading{
+    color: red;
+
+}
+button {
+    background-color: green;
+}
+  */
+/* p{
+   text-align:right;
+  } */
+form {
+    text-align: center; /*text-align: this uesd thi text set posgition*/
+}
+
+body {
+    background-color: rgba(150,150,150,0.5);
+}
+h1 {
+    text-align: center; 
+    text-decoration: line-through; /*text-decoration:  this ues tho underline the text*/
+    text-decoration: underline;
+    text-decoration: dotted underline;
+
+}
+p {
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#h2 {
+    text-align: center;
+    font-weight: normal; /*font-weight: this used the text bolder or normal,or lighter */
+}
+#h3 {
+    text-align: end;
+    font-weight: lighter;
+}
+#h4 {
+    text-align: justify;
+    font-weight: bolder;
+}
+#one {
+    font-family: Arial, Helvetica, sans-serif; /*font-family: this change text style in what uou want;*/
+
+}
+#m {
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize; 
+}
+input {
+    font-size: 26px; /*font-size this used tho change size of text; this call unit in abosulate*/
+}
+p {
+    line-height: normal;
+    text-transform: none; /*text-transform: this uesd to text uppercase,lowercase,capitalize,none;*/
+
+
+}
+/* #one{
+    height: 50px;
+    width: none;
+    border: 1px;
+    border-style: dotted;
+   /*height: inherit;,width: ;,border,border-style, this uesd tho bord of page
+} */
+#one {
+    height: 100px;
+    width: none;
+    border: 2px solid black;
+    border-radius: 15px; /*edge border change to values border - redius 15px and border - readus = 50% tihs change to cricile*/
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    /*padding this change inside of border if we want any spaces we can used the padding:  we can uesd at atime also padding ; right left,top, bottum;*/
+    margin-top: 50px;
+}
+body {
+    margin-top: 50px;
+}
+#r {
+    display: inline;
+}
+button {
+    display: block;
+}
+#p {
+    width: 50px;
+    height: 80px;
+    background-color: aqua;
+    margin: 20px;
+    padding: 10px;
+    display: inline;
+    
+
+    
+}
+/*#n {
+    width: 50px;
+    height: 80px;
+    background-color: blue;
+    margin: 20px;
+    padding: 10px;
+    display: inline;
+} */
